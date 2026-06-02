@@ -59,7 +59,7 @@ spark-submit src/spark_streaming_job.py
 
 ## Reported Outcome
 
-The resume claim is represented as an experiment target:
+The experiment target:
 
 - 99% detection rate
 - 0.5% false positive rate
