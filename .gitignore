@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+models/*.joblib
+alerts/*.jsonl
+!models/.gitkeep
+!alerts/.gitkeep
